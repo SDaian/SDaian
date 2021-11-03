@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="daian scuarissi | linkedin" margin="8px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="daian scuarissi | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][email]
+[<img align="left" alt="daian scuarissi | linkedin" margin="8px" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-160-461814.png" />][linkedin]
+[<img align="left" alt="daian scuarissi | email" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/gmail-30-722694.png" />][email]
 
 <br />
 <br />
