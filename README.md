@@ -1,4 +1,4 @@
-### Hi there, I'm Daian 👋
+## Hi there, I'm Daian 👋
 
 ## I'm a Developer, The Office fanatic, and Soccer enthusiast. 
 - 🧑‍💻 &nbsp;  I'm currently working at [ThisDot Labs](https://www.thisdot.co/).
