@@ -1,15 +1,17 @@
 ## Hi there, I'm Daian 👋
-### I'm a Developer, The Office fanatic, and Soccer enthusiast. 
+I'm a Developer, The Office fanatic, and Soccer enthusiast. 
 
-### Check out my new website [daian-scuarissi.com](https://daian-scuarissi.vercel.app/).
+Check out my new website [daian-scuarissi.com](https://daian-scuarissi.vercel.app/).
 
-Grab my updated [CV/Resume](https://daian-scuarissi.vercel.app/Resume-Daian_Scuarissi.pdf "download")
+Grab my updated [CV/Resume](https://daian-scuarissi.vercel.app/Resume-Daian_Scuarissi.pdf "download").
+
+---
 
 - 🧑‍💻 &nbsp;  I'm currently looking for my next adventure.
 - 🌱 &nbsp;  Experienced and proficient developer using [Angular](https://angular.io/).
 - 🌱 &nbsp;  I'm currently learning about [React](https://reactjs.org/) & [NextJS](https://nextjs.org/).
 - 🚀 &nbsp;  Always looking for my next opportunity.
-- 🥅 &nbsp;  2022 Goals: Contribute more to Open Source projects. Continue learning and developing.
+- 🥅 &nbsp;  2023 Goals: Contribute more to Open Source projects. Continue learning and developing.
 - ⚡️ &nbsp;  Fun fact: I love cooking.
 
 <br />
