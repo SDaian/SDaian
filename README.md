@@ -3,7 +3,7 @@
 
 ### Check out my new website [daian-scuarissi.com](https://daian-scuarissi.vercel.app/).
 
-Grab my updated [CV/Resume](https://daian-scuarissi.vercel.app/Resume-Daian_Scuarissi.pdf)
+Grab my updated [CV/Resume](https://daian-scuarissi.vercel.app/Resume-Daian_Scuarissi.pdf "download")
 
 - 🧑‍💻 &nbsp;  I'm currently looking for my next adventure.
 - 🌱 &nbsp;  Experienced and proficient developer using [Angular](https://angular.io/).
